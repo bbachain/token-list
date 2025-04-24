@@ -67,8 +67,8 @@ Each token entry in the list includes:
 
 - `name`: Full name of the token
 - `symbol`: Token symbol (ticker)
-- `address`: Mint address on the BBACHAIN (BBAchain fork)
-- `chainId`: Network identifier (1 for mainnet)
+- `address`: Mint address on the BBACHAIN
+- `chainId`: Network identifier
 - `decimals`: Number of decimal places
 - `logoURI`: Path to the token's logo image
 
