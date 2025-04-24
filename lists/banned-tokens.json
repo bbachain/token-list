@@ -1,0 +1,23 @@
+{
+    "name": "Banned Tokens",
+    "version": 1,
+    "timestamp": "2025-04-24T00:00:00Z",
+    "tokens": [
+        {
+            "name": "Test Token",
+            "symbol": "TEST",
+            "address": "",
+            "chainId": 1,
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "name": "Test Token 2",
+            "symbol": "TEST2",
+            "address": "",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": ""
+        }
+    ]
+}

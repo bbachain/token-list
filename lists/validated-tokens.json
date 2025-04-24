@@ -1,0 +1,23 @@
+{
+    "name": "Validated Tokens",
+    "version": 1,
+    "timestamp": "2023-10-01T00:00:00Z",
+    "tokens": [
+        {
+            "name": "Wrapped BBA",
+            "symbol": "WBBA",
+            "address": "",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": ""
+        },
+        {
+            "name": "Wrapped ETH",
+            "symbol": "WETH",
+            "address": "",
+            "chainId": 1,
+            "decimals": 6,
+            "logoURI": ""
+        }
+    ]
+}
