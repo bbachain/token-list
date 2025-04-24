@@ -48,7 +48,7 @@ coverage/
 .parcel-cache/
 .rollup.cache/
 
-# Solana specific
+# BBAchain specific
 .anchor
 target/
 **/*.rs.bk

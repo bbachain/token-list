@@ -46,7 +46,7 @@ Our token lists follow this structure:
    {
      "name": "Wrapped BBA",
      "symbol": "WBBA",
-     "address": "", // Mint address on Solana
+     "address": "", // Mint address on BBAchain
      "chainId": 1,
      "decimals": 6,
      "logoURI": ""
@@ -54,7 +54,7 @@ Our token lists follow this structure:
    {
      "name": "Wrapped ETH",
      "symbol": "WETH",
-     "address": "", // Mint address on Solana
+     "address": "", // Mint address on BBAchain
      "chainId": 1,
      "decimals": 6,
      "logoURI": ""
@@ -67,7 +67,7 @@ Each token entry in the list includes:
 
 - `name`: Full name of the token
 - `symbol`: Token symbol (ticker)
-- `address`: Mint address on the BBACHAIN (Solana fork)
+- `address`: Mint address on the BBACHAIN (BBAchain fork)
 - `chainId`: Network identifier (1 for mainnet)
 - `decimals`: Number of decimal places
 - `logoURI`: Path to the token's logo image
